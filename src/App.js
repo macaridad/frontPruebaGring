@@ -10,7 +10,7 @@ function App() {
         </div>
 
         <div className='logo'>
-          <img src={logo} width={580} className='img'/>
+          <img src={logo} width={580} className='img' alt="logo"/>
         </div>
     </ div>
   );
